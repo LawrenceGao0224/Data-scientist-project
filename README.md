@@ -18,3 +18,5 @@ Features Used:
 - Dataset: my own accounting excel
 <img src="https://github.com/LawrenceGao0224/AI-ML-project/blob/main/DS_project/personal_financal/picture.png" alt="drawing" width="500"/>
 ---
+
+# 3. Fake News Detection
