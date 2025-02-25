@@ -20,3 +20,13 @@ Features Used:
 ---
 
 # 3. Fake News Detection
+
+Algorithm: PassiveAggressiveClassifier
+適用範圍
+- 新聞分類（如真假新聞偵測）
+- 垃圾郵件過濾
+- 股票價格預測
+- 異常檢測
+
+Features Used:
+- 用於將文字轉為特徵向量 : TfidfVectorizer 
